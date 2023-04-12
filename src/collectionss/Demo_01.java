@@ -6,7 +6,7 @@ public class Demo_01 {
 	
 	public static void main(String[] args) {
 		
-		
+		//arraylist
 		ArrayList<Integer> al = new ArrayList<>();
 		al.add(10);
 		al.add(20);
